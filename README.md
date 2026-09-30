@@ -4,6 +4,12 @@ A modern, full-featured desktop Personal Finance Tracker built with **Java 17+**
 
 ---
 
+## 📸 Application Preview
+
+![Application Dashboard](screenshots/dashboard.png)
+
+---
+
 ## 🌟 Key Features
 
 1. **Secure Authentication & Session Management**:
